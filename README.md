@@ -120,10 +120,12 @@ The following thoughts are traps; steer away from them:
 
 In times of doubts remember these:
 
+- *`This project will be a huge addition to my already big list of projects that will increase my future prospects of getting hired`*
 - *`The internet is FULL of resources that any one can use to learn about anything.`*
 - *`I've worked on 3 projects. They seemed difficult in the beginning but I still aced them. I'm awesome!`*
 - *`3 months ago, my biggest issues and worries are how to write the correct class name to change an HTML element's color. Now, I'm dealing with bigger things because I've learned so much more. My current worries and issues will be my HTML and CSS of my future.`*
 - *`I'm not alone on this team. There are 2 more people who got my back.`*
+
 
 ### Example of a working project
 
