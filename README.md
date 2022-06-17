@@ -6,11 +6,13 @@ One of the projects you will definitely have to work on, is creating an ecommerc
 We will be using the API provided by this [website](https://fakestoreapi.com/) or this [website](https://fakeapi.platzi.com/) (Contains multiple **fake** images for the same product) You will focus mainly on the product API endpoint and you can check the website's documentation to find all the information you need to learn how to handle the pages.
 
 ### API Example:
+
 ```js
 https://fakestoreapi.com/products
 ```
 
 ## Instructions
+
 These are the instructions that you will need in order to complete the project.
 
 ### Pre-requisites
@@ -41,6 +43,17 @@ You will need to create the following routes:
    1. **All products** to show all products. This page should show all products and a filter that filters the products by name, price, category (you can get the list from the api),and rating.
    2. **Product** page. Clicking on a product in **All products** page should show the selected product's information in this page. Remember nested routing will help you achieve this 😉. This page should have an add to cart button that will add this product to the cart. Use local storage to store the cart info (There are plenty of resources online on how to use it) or React Query. You will also need to include quantity as well.
    3. **Cart** page should show all the products in the cart (again you can get it from the local storage or React Query if you used it). You will also need to have a button to remove a product from the cart. This page should also show the total payment.
+
+### Finalizing
+
+After finishing the project, do the following:
+    1. Deploy the project on netlify so you can have a link to use it in your portfolio. Don't forget to add a link in your website that points to this project.
+    2. Remove everything from this README.md file and add the following content to it:
+      1. A screenshot of the website.
+      2. Your project's name.
+      3. Description of the project.
+      4. Tools used.
+      5. Your names.
 
 ### Aesthetics
 
