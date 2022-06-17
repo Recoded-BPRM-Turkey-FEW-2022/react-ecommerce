@@ -28,7 +28,7 @@ These are the instructions that you will need in order to complete the project.
     ├─ routes/
     │  ├─ AllProducts.jsx
     ├─ components/
-    │  ├─ ProductInfo.jsx/
+    │  ├─ Filter.jsx/
     ├─ util/
     │  ├─ API.js
     ├─ App.js
