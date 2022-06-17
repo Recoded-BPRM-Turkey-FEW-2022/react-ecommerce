@@ -3,7 +3,7 @@
 ## Overview
 One of the projects you will definitely have to work on, is creating an ecommerce website. In an ecommerce website, you will need to have a page to show all products, a page to show currently opened product, and a page to show the cart.
 
-We will be using the API provided by this [website]([website](https://fakestoreapi.com/)) or this [website](https://fakeapi.platzi.com/) (Contains multiple **fake** images for the same product) You will focus mainly on the product API endpoint and you can check the website's documentation to find all the information you need to learn how to handle the pages.
+We will be using the API provided by this [website](https://fakestoreapi.com/) or this [website](https://fakeapi.platzi.com/) (Contains multiple **fake** images for the same product) You will focus mainly on the product API endpoint and you can check the website's documentation to find all the information you need to learn how to handle the pages.
 
 ### API Example:
 ```js
