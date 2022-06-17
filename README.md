@@ -15,7 +15,7 @@ These are the instructions that you will need in order to complete the project.
 
 ### Pre-requisites
 
-1. Add all the dependencies you need to use in your project. So you will need to add things like React router, reactstrap (see the aesthetics section), or any other thing you will use using `npm i {package name}`.
+1. Add all the dependencies you need to use in your project. So you will need to add things like React router, reactstrap (see the [aesthetics](#aesthetics) section), or any other thing you will use using `npm i {package name}`. See the [recommendations](#Recommendations) section for more information.
 2. Put all the pages you need in the `src/routes` folder (Every page will need its own component). Put all the components inside the `src/components` folder and, ideally, if you have functions that you will be using in multiple places then you can put them in the `src/utils` folder and export them (You might need to read more about how to export functions from a file) and import them wherever you need them.
 
     ```text
